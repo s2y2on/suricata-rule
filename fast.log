@@ -1,0 +1,27 @@
+11/24/2020-20:10:26.239164  [**] [1:10006:1] google.com access [**] [Classification: (null)] [Priority: 3] {TCP} 10.0.2.15:51642 -> 172.217.24.132:443
+11/24/2020-20:10:28.211575  [**] [1:10006:1] google.com access [**] [Classification: (null)] [Priority: 3] {TCP} 10.0.2.15:43062 -> 172.217.175.46:443
+11/24/2020-20:10:28.401468  [**] [1:10006:1] google.com access [**] [Classification: (null)] [Priority: 3] {TCP} 10.0.2.15:37590 -> 172.217.31.162:443
+11/24/2020-20:10:28.409583  [**] [1:10006:1] google.com access [**] [Classification: (null)] [Priority: 3] {TCP} 10.0.2.15:56898 -> 172.217.24.142:443
+11/24/2020-20:10:58.603887  [**] [1:10004:1] naver.com access [**] [Classification: (null)] [Priority: 3] {TCP} 10.0.2.15:34842 -> 223.130.195.95:443
+11/24/2020-20:11:02.955926  [**] [1:10004:1] naver.com access [**] [Classification: (null)] [Priority: 3] {TCP} 10.0.2.15:41994 -> 125.209.230.195:443
+11/24/2020-20:11:03.127464  [**] [1:10004:1] naver.com access [**] [Classification: (null)] [Priority: 3] {TCP} 10.0.2.15:36232 -> 210.89.168.71:443
+11/24/2020-20:11:03.204700  [**] [1:10004:1] naver.com access [**] [Classification: (null)] [Priority: 3] {TCP} 10.0.2.15:36234 -> 210.89.168.71:443
+11/24/2020-20:11:03.339580  [**] [1:10004:1] naver.com access [**] [Classification: (null)] [Priority: 3] {TCP} 10.0.2.15:56348 -> 210.89.168.33:443
+11/24/2020-20:11:03.705094  [**] [1:10004:1] naver.com access [**] [Classification: (null)] [Priority: 3] {TCP} 10.0.2.15:50860 -> 210.89.167.4:443
+11/24/2020-20:11:03.711582  [**] [1:10004:1] naver.com access [**] [Classification: (null)] [Priority: 3] {TCP} 210.89.167.4:443 -> 10.0.2.15:50860
+11/24/2020-20:11:03.805404  [**] [1:10004:1] naver.com access [**] [Classification: (null)] [Priority: 3] {TCP} 10.0.2.15:35936 -> 210.89.172.40:443
+11/24/2020-20:11:03.805898  [**] [1:10004:1] naver.com access [**] [Classification: (null)] [Priority: 3] {TCP} 210.89.172.40:443 -> 10.0.2.15:35936
+11/24/2020-20:11:03.984650  [**] [1:10006:1] google.com access [**] [Classification: (null)] [Priority: 3] {TCP} 10.0.2.15:42120 -> 172.217.175.36:443
+11/24/2020-20:11:10.424768  [**] [1:10002:1] netflix.com access [**] [Classification: (null)] [Priority: 3] {TCP} 10.0.2.15:38852 -> 34.209.106.197:443
+11/24/2020-20:11:10.426139  [**] [1:10002:1] netflix.com access [**] [Classification: (null)] [Priority: 3] {TCP} 34.209.106.197:443 -> 10.0.2.15:38852
+11/24/2020-20:11:10.515833  [**] [1:10002:1] netflix.com access [**] [Classification: (null)] [Priority: 3] {TCP} 10.0.2.15:38854 -> 34.209.106.197:443
+11/24/2020-20:11:10.516688  [**] [1:10002:1] netflix.com access [**] [Classification: (null)] [Priority: 3] {TCP} 34.209.106.197:443 -> 10.0.2.15:38854
+11/24/2020-20:11:11.385669  [**] [1:10002:1] netflix.com access [**] [Classification: (null)] [Priority: 3] {TCP} 10.0.2.15:34848 -> 44.242.13.161:443
+11/24/2020-20:11:14.459078  [**] [1:10002:1] netflix.com access [**] [Classification: (null)] [Priority: 3] {TCP} 23.40.45.177:443 -> 10.0.2.15:42290
+11/24/2020-20:11:15.632682  [**] [1:10002:1] netflix.com access [**] [Classification: (null)] [Priority: 3] {TCP} 10.0.2.15:52750 -> 52.11.102.209:443
+11/24/2020-20:11:15.632699  [**] [1:10002:1] netflix.com access [**] [Classification: (null)] [Priority: 3] {TCP} 10.0.2.15:52748 -> 52.11.102.209:443
+11/24/2020-20:11:15.632868  [**] [1:10002:1] netflix.com access [**] [Classification: (null)] [Priority: 3] {TCP} 52.11.102.209:443 -> 10.0.2.15:52750
+11/24/2020-20:11:15.632869  [**] [1:10002:1] netflix.com access [**] [Classification: (null)] [Priority: 3] {TCP} 52.11.102.209:443 -> 10.0.2.15:52748
+11/24/2020-20:11:20.497127  [**] [1:10008:1] facebook.com access [**] [Classification: (null)] [Priority: 3] {TCP} 10.0.2.15:59358 -> 157.240.215.35:443
+11/24/2020-20:11:20.846376  [**] [1:10008:1] facebook.com access [**] [Classification: (null)] [Priority: 3] {TCP} 10.0.2.15:59360 -> 157.240.215.35:443
+
